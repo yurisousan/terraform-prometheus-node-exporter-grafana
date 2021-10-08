@@ -1,7 +1,7 @@
-# variable "region" {}
+#  variable "region" {}
 
 # variable "vpc" {}
 
-# variable "env" {}
+#  variable "stage" {}
 
 # variable "iam_profile" {}
